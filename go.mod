@@ -21,16 +21,13 @@ require (
 	github.com/go-openapi/strfmt v0.0.0-20180825180330-6292e8b5de3b
 	github.com/go-openapi/swag v0.0.0-20180825180336-0dc164b7900e // indirect
 	github.com/go-openapi/validate v0.0.0-20180825180342-e0648ff40507 // indirect
-	github.com/hashicorp/go-hclog v0.9.2 // indirect
-	github.com/hashicorp/go-plugin v1.0.1 // indirect
+	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/hashicorp/go-version v1.2.0
-	github.com/hashicorp/terraform v0.12.12
-	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
+	github.com/hashicorp/terraform-plugin-sdk v1.0.0
 	github.com/hokaccha/go-prettyjson v0.0.0-20170213120834-e6b9231a2b1c // indirect
 	github.com/mailru/easyjson v0.0.0-20180823135443-60711f1a8329 // indirect
 	github.com/minsikl/netscaler-nitro-go v0.0.0-20170827154432-5b14ce3643e3
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mitchellh/reflectwalk v1.0.1 // indirect
 	github.com/nicksnyder/go-i18n v1.10.1-0.20171206142411-aa0ce51472e0 // indirect
 	github.com/oklog/run v1.0.1-0.20180308005104-6934b124db28 // indirect
 	github.com/pborman/uuid v1.2.0 // indirect
@@ -38,10 +35,7 @@ require (
 	github.com/renier/xmlrpc v0.0.0-20170708154548-ce4a1a486c03 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/softlayer/softlayer-go v0.0.0-20190814165317-b9062a914a22
-	github.com/spf13/afero v1.2.2 // indirect
 	github.ibm.com/Bluemix/riaas-go-client v0.0.0-20191018070922-afd27ac04d4f
-	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586 // indirect
-	google.golang.org/grpc v1.23.0 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
 )
 
