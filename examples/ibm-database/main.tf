@@ -17,7 +17,7 @@ resource "ibm_compute_vm_instance" "webapp1" {
 }
 
 data "ibm_resource_group" "group" {
-  name = "default"
+  name = "Default"
 }
 
 resource "ibm_database" "test_acc" {
